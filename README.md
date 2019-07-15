@@ -1,6 +1,6 @@
 # MAPLE: Model Agnostic suPervised Local Explanations
 
-by Gregory Plumb, Denali Molitor and Ameet S. Talwalkar ([http://papers.nips.cc/paper/7518-model-agnostic-supervised-local-explanations]([paper]) [https://blog.ml.cmu.edu/2019/07/13/towards-interpretable-tree-ensembles/]([blog]))
+by Gregory Plumb, Denali Molitor and Ameet S. Talwalkar ([[paper]](http://papers.nips.cc/paper/7518-model-agnostic-supervised-local-explanations) [[blog]](https://blog.ml.cmu.edu/2019/07/13/towards-interpretable-tree-ensembles/))
 
 
 ## How to use
